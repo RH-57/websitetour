@@ -34,7 +34,7 @@
                 {{-- Kolom 3 --}}
                 <div class="col-md-4">
                     <h5 class="fw-bold mb-3">Kontak Kami</h5>
-                    <p class="mb-1"><i class="bi bi-geo-alt"></i> Jl. Kenari No.12C Gg Lawu, Sleman, Yogyakarta</p>
+                    <p class="mb-1"><i class="bi bi-geo-alt"></i> Jl. Basmol Raya (GRAHA 161 No.10), Kembangan, Rawa Buaya, Jakarta Barat</p>
                     <p class="mb-1"><i class="bi bi-whatsapp"></i> 0822-5544-4203</p>
                     <p><i class="bi bi-envelope"></i> info@liratour.com</p>
                 </div>
