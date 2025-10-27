@@ -21,7 +21,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6 hero-text">
                     <h1>Paket Wisata Jogja Terlengkap</h1>
-                    <p>Buat Momen Liburan Berkesan Bersama Zaza Tour</p>
+                    <p>Buat Momen Liburan Berkesan Bersama LIRA Tour</p>
                     <a href="#" class="btn-hero">BOOK NOW!</a>
                 </div>
             </div>
